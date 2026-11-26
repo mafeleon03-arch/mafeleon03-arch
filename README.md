@@ -1,7 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30213F,50:7952A8,100:BB98D9&height=190&section=header&text=María%20Fernanda%20León&fontSize=35&fontColor=FFFFFF&fontAlignY=33&desc=QA%20Tester%20%7C%20Functional%20%26%20API%20Testing&descSize=16&descAlignY=55" alt="María Fernanda León"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30213F,100:BB98D9&height=200&section=header&text=Maria%20Fernanda%20Leon&fontSize=35&fontColor=FFFFFF&fontAlignY=38&desc=QA%20Tester%20%7C%20IT%20Support%20Specialist&descAlignY=58&descSize=16" alt="Maria Fernanda Leon"/>
 </p>
 
 <h3 align="center">Software Quality Assurance & IT Support Specialist</h3>
