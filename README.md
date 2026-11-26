@@ -1,7 +1,7 @@
 <!-- PROFESSIONAL BANNER -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="María Fernanda León | QA Tester & IT Support Specialist"/>
+  <img src="./Mar%C3%ADa%20Fernanda%20Le%C3%B3n_%20QA%20y%20Soporte%20IT.png" width="100%" alt="María Fernanda León | QA Tester & IT Support Specialist"/>
 </p>
 
 <!-- PROFESSIONAL INTRODUCTION -->
